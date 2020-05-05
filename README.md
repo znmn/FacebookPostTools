@@ -1,7 +1,7 @@
 # Facebook Post Tools
 * Facebook Post Tools Based on PHP
 
-![logo]https://user-images.githubusercontent.com/45698305/81050223-d2009880-8ee9-11ea-8d9f-1229587b1d17.png)
+![logo](https://user-images.githubusercontent.com/45698305/81050223-d2009880-8ee9-11ea-8d9f-1229587b1d17.png)
 
 ## Features
 	☑ Bulk Change Your Facebook Posts Privacy
@@ -29,4 +29,4 @@
 ## My Social Media
 	☑ INSTAGRAM	: https://instagram.com/xznmnx
 	☑ FACEBOOK	: https://www.facebook.com/zain.muhaimin
-	☑ Github Profile	: https://www.github.com/znmn
+	☑ Github	: https://www.github.com/znmn
